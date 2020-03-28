@@ -11,7 +11,6 @@ app.use(
     extended: false
   })
 );
-app.get('/', (req, res) => {});
 
 //Define Router
 app.use('/api/users', require('./Route/users'));
