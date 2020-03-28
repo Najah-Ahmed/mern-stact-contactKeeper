@@ -1,0 +1,4 @@
+{
+  "mongoURL": "mongodb+srv://njh:najah123@mern-app-reactapp-lpn7v.mongodb.net/mern?retryWrites=true&w=majority",
+  "jwtSecret": "REACTAPP_WITH_NODE_MERN_STACK"
+}
